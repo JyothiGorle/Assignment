@@ -1,0 +1,6 @@
+when we define the two classes in the same class as public we will get an error:
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The public type Outer1 must be defined in its own file
+
+	at com.jyothi.march12.Outer1.<init>(Jyothi_prog2.java:6)
+	at com.jyothi.march12.Jyothi_prog2.main(Jyothi_prog2.java:38)
